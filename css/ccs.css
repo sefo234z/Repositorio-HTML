@@ -1,43 +1,58 @@
-p{
-    color: red;
-     font-size: 20px;
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-   }
-img{
-       width: 30px;
-       height: 30px; 
+.primerh1
+{
+    text-align: left;
+    font-weight: bold;
+}
+.horas
+{
+    text-align: center;
+    background-color: gray
 
-     
-   }
-   body{
-    
-    background-color: purple
+}
+.negritaysubrayado
+{
+    font-weight: bold;
+    text-decoration: underline black;
+    text-align: left;
 
+}
+.derecha
+{
+    text-align: right;
 
-   }
-   table, th, td{
+}
+.izquierda
+{
+    text-align: left;
 
-border: 1px solid yellowgreen;
-border-collapse: collapse;
-   }
- td{
-
-    background-color: peru
-
- }
- .tamanyoimagen
- {
-    width: 300px;
-    height: 300px;
- }
-
- .tabla
- {
-    text-align: center
- }  
- .fondoblanco
- {
+}
+.smx-m06
+{
+    background-color: aqua;
+}
+.smx-m08
+{
+    background-color:orange;
+}
+.smx-m10
+{
     background-color: yellow;
-    color: blue
- }
- 
+}
+.smx-m07
+{
+    background-color: pink;
+}
+.smx-Tut
+{
+    background-color: purple;
+}
+.smx-m04
+{
+    background-color:  indianred;
+}
+.patio
+{
+    text-align: center;
+    
+
+}
