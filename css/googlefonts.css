@@ -6,8 +6,9 @@ img
 {
     width:   300px;
     height:  300px;
+
 }
-video{
+video, iframe{
     width:   560px; 
     height:  315px;
 }
@@ -33,4 +34,14 @@ video{
     font-family: 'Alatsi', sans-serif;
     margin: 5px;
     background-color: greenyellow;
+}
+li:hover{
+     background-color: yellow;
+     font-size: 30px 
+}
+td{
+    border: 2px solid;
+}
+table{
+    border-collapse: collapse;
 }
