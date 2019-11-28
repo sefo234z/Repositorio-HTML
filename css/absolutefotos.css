@@ -1,0 +1,122 @@
+#div1{
+    width: 600px;
+    height: 600px;
+
+}
+#div2{
+ 
+    width: 397px;
+    height: 97px;
+    border: 1px solid black;
+    margin: 1px;
+    position: absolute; 
+    left: 9px;
+    background-image: url("../imatge/11.jpg");
+}
+#div3{
+    width: 194px;
+    height: 97px;
+    border: 1px solid black;
+    margin: 1px;
+    position: absolute; left: 420px;
+    background-image: url("../imatge/12.jpg");
+}   
+#div4{
+     width: 196px;
+     height: 197px;  
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; top: 120px;
+     background-image: url("../imatge/13.jpg");
+    
+ }
+#div5{
+     width: 194px;
+     height: 297px;  
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; right: 542px; top: 120px;
+     background-image: url("../imatge/14.jpg");
+  } 
+#div6{
+ 
+    width: 197px;
+    height: 97px;
+    border: 1px solid black;
+    margin: 1px;
+    position: absolute; right: 332px; top: 120px;
+    background-image: url("../imatge/15.jpg");
+ }
+#div7{
+     width: 194px;
+     height: 95px;
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; right: 332px; top: 223px;
+     background-image: url("../imatge/16.jpg");
+  }
+#div8{
+ 
+     width: 194px;
+     height: 95px;
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; left: 9px; top: 323px;
+     background-image: url("../imatge/17.jpg");
+ }   
+#div9{
+ 
+     width: 194px;
+     height: 195px;
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; right: 332px; top: 323px;
+     background-image: url("../imatge/18.jpg");
+   }                
+#div10{
+     width: 194px;
+     height: 197px;
+      
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; left: 9px; top: 423px;
+     background-image: url("../imatge/19.jpg");
+   }
+
+#div11{
+     width: 194px;
+     height: 95px;
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; right: 542px; top: 423px;   
+     background-image: url("../imatge/20.jpg");                 
+   }
+#div12{
+     width: 194px;
+     height: 95px;
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; right: 542px; top: 523px;    
+     background-image: url("../imatge/21.jpg");                
+   }
+#div13{
+     width: 194px;
+     height: 95px;
+     border: 1px solid black;
+     margin: 1px;
+     position: absolute; right: 332px; top: 523px;   
+     background-image: url("../imatge/22.jpg");                 
+   } 
+
+div>div:hover {
+    opacity: 0.2;
+    border:3px solid red;    
+}
+
+             
+
+
+
+                     
+
+

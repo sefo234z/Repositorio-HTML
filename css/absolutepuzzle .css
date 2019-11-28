@@ -1,0 +1,113 @@
+#div1{
+       width: 600px;
+       height: 600px;
+
+}
+#div2{
+    
+       width: 397px;
+       height: 97px;
+       border: 1px solid black;
+       margin: 1px;
+       position: absolute; left: 9px;
+   }
+#div3{
+       width: 194px;
+       height: 97px;
+        
+       border: 1px solid black;
+       margin: 1px;
+       position: absolute; left: 420px;
+   }   
+#div4{
+        width: 196px;
+        height: 197px;  
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; top: 120px;
+    }
+#div5{
+        width: 196px;
+        height: 297px;  
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; right: 542px; top: 120px;
+     } 
+  #div6{
+    
+       width: 194px;
+       height: 97px;
+       border: 1px solid black;
+       margin: 1px;
+       position: absolute; right: 332px; top: 120px;
+    }
+#div7{
+        width: 194px;
+        height: 95px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; right: 332px; top: 223px;
+     }
+#div8{
+    
+        width: 194px;
+        height: 95px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; left: 9px; top: 323px;
+    }   
+#div9{
+    
+        width: 194px;
+        height: 195px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; right: 332px; top: 323px;
+      }                
+#div10{
+        width: 194px;
+        height: 197px;
+         
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; left: 9px; top: 423px;
+      }
+
+#div11{
+        width: 194px;
+        height: 95px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; right: 542px; top: 423px;                    
+      }
+#div12{
+        width: 194px;
+        height: 95px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; right: 542px; top: 523px;                    
+      }
+#div13{
+        width: 194px;
+        height: 95px;
+        border: 1px solid black;
+        margin: 1px;
+        position: absolute; right: 332px; top: 523px;                    
+      }                                
+      .colornegro
+      {
+        background-color: black
+       }
+      .colorverdefuerte{
+       background-color: green;
+       }
+      .colorverde{
+       background-color: greenyellow;
+       }
+                
+
+
+
+                        
+
+  
