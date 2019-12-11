@@ -7,7 +7,7 @@
 
 header
 {
-    background-color: red;
+background-color: red;
 
 }
 
@@ -138,8 +138,6 @@ article
 {
     width: 625px;
     margin-right: 8px;
-   
-
 }
 
 .ico_categorie
@@ -176,40 +174,31 @@ font-size: 0.8em;
     top: 25px;
     left: 250px;
     margin-right: 5px;
-
-
 }
 
 
-#zozor_picture
-{
-
-    margin-right: 5px;
-
-
+#zozor_picture{
+ margin-right: 5px;
 }
 
 aside img /*separo les imatges entre si*/
 {
+ margin-right: 5px;   
     
-    
-
 }
 #autor{
-    text-align: center;
-    border: 1px solid #181818;
-    margin-right: 5px;
-    display: inline-block
+ text-align: center;
+ border: 1px solid #181818;
+ margin-right: 5px;
+ display: inline-block
 }
 
 /* part 5*/
 
 #tweet, #my_pictures, #my_friends
 {
-    display: inline-block;
-    margin-top: vertical ;
-
-
+ display: inline-block;
+ margin-top: vertical ;
 }
 
 #tweet
@@ -219,13 +208,12 @@ width: 28%
 
 #my_pictures
 {
-    width: 35%
-
+ width: 35%
 }
 
 #my_friends
 {
-    width: 31%
+ width: 31%
 }
 
 #my_pictures img
@@ -256,7 +244,6 @@ footer
 {
     background:  url('imatges/top.png') no-repeat top center, url('imatges/line.png') repeat-x top, url('imatges/shadow.png') repeat-x top;
     padding-top: 25px;
-
 }
 
 
