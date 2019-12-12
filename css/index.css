@@ -73,7 +73,7 @@ ul li a {
     color: white; 
     font-size: 25px;
 }
-a:hover ul:hover li:hover { 
+ul:hover li:hover a:hover { 
     background-color: orange; 
     font-size: 30px;
 }
