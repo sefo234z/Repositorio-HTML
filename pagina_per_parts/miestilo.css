@@ -221,7 +221,6 @@ width: 28%
 border: 1px solid #181818;
 }
 
-
 #my_friends ul
 {
     margin-top: vertical ;
@@ -233,17 +232,15 @@ border: 1px solid #181818;
 }
 
 #my_friends a
-
 {
 text-decoration: none;
 color: #760001
 }
 
-
 footer
 {
-    background:  url('imatges/top.png') no-repeat top center, url('imatges/line.png') repeat-x top, url('imatges/shadow.png') repeat-x top;
-    padding-top: 25px;
+ background:  url('imatges/top.png') no-repeat top center, url('imatges/line.png') repeat-x top, url('imatges/shadow.png') repeat-x top;
+ padding-top: 25px;
 }
 
 
@@ -254,6 +251,6 @@ font-size: 0.8em;
 
 footer h1
 {
-    font-size: 1.1em;
+font-size: 1.1em;
 }
 

@@ -66,14 +66,14 @@ ul li a {
     margin-right: auto;
     display:block; 
     width:400px; 
-    height:40px; 
+    height:30px; 
     background-color:rgb(29, 25, 25); 
     text-decoration:none; 
     text-align: center;
     color: white; 
-    font-size: 30px;
+    font-size: 25px;
 }
 a:hover ul:hover li:hover { 
     background-color: orange; 
-    font-size: 35px;
+    font-size: 30px;
 }
