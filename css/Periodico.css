@@ -1,14 +1,38 @@
-div{
-weight:800px;
-width: 800px;
+main{
+    
+    width: 800px;
+    line-height: 0;
+    grid-column: 25% 50% 25%
 }
 header{
-    weight: 100%;
-    width: 100px;
-    background-image: url("../imatge/cabecera.png")
+    
 }
-section{}
-article{}
-aside
-footer{{}}
-nav{}
+section{
+    width: 801px;
+    line-height: 0;
+    border: 10px solid black;
+   
+}
+.article1{
+    float: left;
+    margin-left: 140px;
+    height: 100px;
+    width: 100%;
+}
+.article2{
+    float: left;
+    margin-left: 190px;
+}
+.article3{
+    float: left;
+    margin-left: 190px;
+    width: 440px;
+    height: 350px;
+}
+.asidederecha{
+   
+}
+.asideizquierda{
+
+
+}
