@@ -1,6 +1,6 @@
-  tr{
-    width: 400px;
-    height: 400px;
+  tr, td{
+    width: 200px;
+    height: 200px;
     left: 0;
     right: 0;
     margin: 0 auto;
