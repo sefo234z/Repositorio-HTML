@@ -1,3 +1,4 @@
+
 /*Menu Superior*/
 nav{
     height:100px;
@@ -5,14 +6,41 @@ nav{
     list-style: none;
 }
 /*Titulo*/
-#divtitulo{
+.divtitulo{
     width: 100%;
-    height: 150px;
+    height: 100px;
     background-color: blue;
     color: black;
     text-align: center;
     font-size: 50px
-    
-
 }
-
+/*Segunda parte*/
+.divsegundo{
+    width: 100%;
+    height: 100px;
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+    border: 1px solid black;}
+/*Tabla*/
+.fotos{
+border: 1px solid black;
+}
+/*Columnas*/
+.divizquierda{
+    background-color: pink;
+    color: black;
+    
+    
+}
+.divderecha{
+    background-color: orangered;
+    color: black;
+  
+}
+.columna1{
+    background-color: #F3F781
+}
+.columna2 {
+    background-color: #A9E2F3
+}
