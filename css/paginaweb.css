@@ -1,10 +1,20 @@
+body{
+    background-color: #33FF86
+}
 .menu{
     list-style: none;
     height: 100%;
 }
 img{
-width: 100px
+height: 395px
 }
-section{
-    height: 100%
+
+.carousel{
+    height: 400px;
+}
+.textocarousel{
+    color: black;
+}
+p{
+    font-size: 20px
 }
